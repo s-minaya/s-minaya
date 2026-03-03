@@ -1,10 +1,9 @@
-# Hi there, I'm Sofía Minaya👋
-
+# Hi there, I'm Sofía Minaya 👋
 ### Junior Full Stack Web Developer · ex‑Hospitality & Administrative Professional · Lifelong Problem Solver
 
 I spent 10 years in hotel reception and administration learning to stay calm under pressure, prioritise when everything feels urgent, and find practical solutions at lightning speed. Then I decided to apply all of that to something I'm genuinely passionate about — **building things for the web**.
 
-I recently completed my full stack training at **Adalab Bootcamp** and I'm currently looking for my first dev role where I can keep growing, contribute, and bring my own creative touch to every project.
+I recently completed my full stack training at **Adalab Bootcamp** and I'm currently deepening my skills in **software testing and quality assurance** — because I believe shipping code is only half the job. The other half is making sure it actually works.
 
 ---
 
@@ -24,7 +23,17 @@ I recently completed my full stack training at **Adalab Bootcamp** and I'm curre
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Testing & Quality**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools & Workflow**
 
@@ -40,6 +49,24 @@ I recently completed my full stack training at **Adalab Bootcamp** and I'm curre
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0175C2?style=for-the-badge&logo=agile&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+---
+
+## 🧪 Currently levelling up: Software Testing
+
+I've been building a solid foundation in testing across the full stack — from static analysis to browser automation. Here's what I've been working with:
+
+| Layer | What I practice |
+|---|---|
+| 🔍 **Static analysis** | ESLint rules, catching bugs before running a single line |
+| ⚡ **Unit tests** | Jest, mocking, spies, black-box vs white-box strategies |
+| 🔗 **Integration tests** | Supertest + mocked DB layer to test full request flows |
+| 🗄️ **E2E tests** | Real MongoDB (Docker) + seed data + teardown isolation |
+| 🌐 **UI tests** | Playwright automating real browser interactions |
+| 🚀 **CI/CD** | GitHub Actions pipeline: lint → unit → e2e, running on every push |
+
+I care about writing tests that are **meaningful**, not just ones that make the coverage bar go green.
 
 ---
 
