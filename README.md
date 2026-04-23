@@ -1,9 +1,9 @@
 # Hi there, I'm Sofía Minaya 👋
 ### Junior Full Stack Web Developer · ex‑Hospitality & Administrative Professional · Lifelong Problem Solver
 
-I spent 10 years in hotel reception and administration learning to stay calm under pressure, prioritise when everything feels urgent, and find practical solutions at lightning speed. Then I decided to apply all of that to something I'm genuinely passionate about — **building things for the web**.
+I spent 10 years in hotel reception and administration learning to stay calm under pressure, prioritise when everything feels urgent, and find practical solutions at lightning speed. Then I decided to apply all of that to something I'm genuinely passionate about: **building things for the web**.
 
-I recently completed my full stack training at **Adalab Bootcamp** and I'm currently deepening my skills in **software testing and quality assurance** — because I believe shipping code is only half the job. The other half is making sure it actually works.
+I recently completed my full stack training at **Adalab Bootcamp** and I'm currently deepening my skills in **software testing and quality assurance**, because I believe shipping code is only half the job. The other half is making sure it actually works.
 
 ---
 
@@ -14,6 +14,7 @@ I recently completed my full stack training at **Adalab Bootcamp** and I'm curre
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -29,8 +30,11 @@ I recently completed my full stack training at **Adalab Bootcamp** and I'm curre
 **Testing & Quality**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -60,10 +64,11 @@ I've been building a solid foundation in testing across the full stack — from 
 | Layer | What I practice |
 |---|---|
 | 🔍 **Static analysis** | ESLint rules, catching bugs before running a single line |
-| ⚡ **Unit tests** | Jest, mocking, spies, black-box vs white-box strategies |
+| ⚡ **Unit tests** | Jest / Vitest, mocking, spies, Table Driven Testing, black-box vs white-box |
 | 🔗 **Integration tests** | Supertest + mocked DB layer to test full request flows |
 | 🗄️ **E2E tests** | Real MongoDB (Docker) + seed data + teardown isolation |
-| 🌐 **UI tests** | Playwright automating real browser interactions |
+| 🌐 **UI tests** | React Testing Library + Playwright automating real browser interactions |
+| 🎭 **Network mocking** | Mock Service Worker (MSW) intercepting HTTP requests at network level |
 | 🚀 **CI/CD** | GitHub Actions pipeline: lint → unit → e2e, running on every push |
 
 I care about writing tests that are **meaningful**, not just ones that make the coverage bar go green.
