@@ -1,94 +1,84 @@
-# Hi there, I'm Sofía Minaya 👋
-### Junior Full Stack Web Developer · ex‑Hospitality & Administrative Professional · Lifelong Problem Solver
+<p align="center">
+  <a href="https://github.com/s-minaya">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb7c5&fontSize=54&height=90&width=1178&text=Hi%20there%2C%20I'm%20Sof%C3%ADa%20Minaya%20%E2%8B%86.%F0%9F%8C%B8*%3A%EF%BD%A5" alt="Hi there, I&#39;m Sofía Minaya ⋆.🌸*:･" />
+  </a>
+</p>
 
-I spent 10 years in hotel reception and administration learning to stay calm under pressure, prioritise when everything feels urgent, and find practical solutions at lightning speed. Then I decided to apply all of that to something I'm genuinely passionate about: **building things for the web**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a8c66c&center=true&vCenter=true&width=900&height=44&lines=Junior%20Full%20Stack%20Developer%20%C2%B7%20Spec-Driven%20%26%20AI-Assisted%20Workflow;Hospitality%20Industry%20Survivor" alt="Typing headlines" />
+</p>
 
-I recently completed my full stack training at **Adalab Bootcamp** and I'm currently deepening my skills in **software testing and quality assurance**, because I believe shipping code is only half the job. The other half is making sure it actually works.
+<p align="center">
+  <img src="https://img.shields.io/badge/English-a8c66c?style=for-the-badge&labelColor=a8c66c" alt="English (current)" />
+  <a href="https://github.com/s-minaya/s-minaya/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-30363d?style=for-the-badge" alt="Leer en español" /></a>
+</p>
 
----
+### 🚀 About Me
 
-## 🛠️ Tech Stack
+I spent 10 years in hotel reception and administration, where I learned to stay calm under pressure and solve problems fast. In 2026 I finished my full stack training at **Adalab** and started applying all of that to something I'm genuinely passionate about: building things for the web.  
+These days I build with **React + JavaScript**, I write tests that actually mean something, and I work with **AI agents under a spec-driven process** — not vibe-coding, but documented specs, defined scope and reviewed output.
 
-**Frontend**
+🔭 &nbsp;I'm currently working on **a European tech job radar with a fellow data student**  
+🌱 &nbsp;I'm currently learning **backend architecture and how to design systems that don't fall apart when they grow**  
+🤔 &nbsp;I'm looking for help with **code reviews. I'd rather hear why an architectural decision is wrong now than discover it in three months**  
+⚡ &nbsp;Fun fact: **I spent 10 years giving people the wifi password. Now I build the things that need it**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🛠️ Tech Stack
 
-**Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔗 Connect With Me
 
-**Testing & Quality**
+<p align="left">
+  <a href="https://www.linkedin.com/in/sofia-minaya/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://s-minaya.github.io/sofia-minaya-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:minaya.sofia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 📊 GitHub Stats
 
-**Tools & Workflow**
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=s-minaya&show_icons=true&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=s-minaya&layout=compact&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+### 📈 Contribution Graph
 
-**Methodology**
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-minaya&bg_color=00000000&color=ffb7c5&line=a8c66c&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0175C2?style=for-the-badge&logo=agile&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge&logo=testinglibrary&logoColor=white)
+### 💭 Dev Quote
 
----
-
-## 🧪 Currently levelling up: Software Testing
-
-I've been building a solid foundation in testing across the full stack — from static analysis to browser automation. Here's what I've been working with:
-
-| Layer | What I practice |
-|---|---|
-| 🔍 **Static analysis** | ESLint rules, catching bugs before running a single line |
-| ⚡ **Unit tests** | Jest / Vitest, mocking, spies, Table Driven Testing, black-box vs white-box |
-| 🔗 **Integration tests** | Supertest + mocked DB layer to test full request flows |
-| 🗄️ **E2E tests** | Real MongoDB (Docker) + seed data + teardown isolation |
-| 🌐 **UI tests** | React Testing Library + Playwright automating real browser interactions |
-| 🎭 **Network mocking** | Mock Service Worker (MSW) intercepting HTTP requests at network level |
-| 🚀 **CI/CD** | GitHub Actions pipeline: lint → unit → e2e, running on every push |
-
-I care about writing tests that are **meaningful**, not just ones that make the coverage bar go green.
-
----
-
-## 🌱 What I bring beyond the code
-
-- 🏨 **Resilience built in the real world** — 10 years handling high-pressure environments with a smile
-- 🎨 **An eye for design** — I create my own logos, icons and custom visuals for my projects
-- 🧩 **A problem-solver mindset** — if something breaks, I don't panic. I debug.
-- 🤝 **Team player** — Scrum and Agile aren't just buzzwords to me, I've lived them in project sprints
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-## 📬 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-minaya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://s-minaya.github.io/sofia-minaya-portfolio/)
-
----
-
-*Currently open to junior dev opportunities — remote, hybrid or on-site. Let's build something great!* 🚀
+<p align="center"><i>⭐️ From <a href="https://github.com/s-minaya">s-minaya</a></i></p>
