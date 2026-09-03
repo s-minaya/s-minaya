@@ -23,6 +23,26 @@ Ahora trabajo con **React + JavaScript**, escribo tests que sirven para algo, y 
 🤔 &nbsp;Busco ayuda con **code reviews. Prefiero que me digan ahora por qué una decisión de arquitectura está mal, y no descubrirlo dentro de tres meses**  
 ⚡ &nbsp;Dato curioso: **pasé 10 años dando la contraseña del wifi. Ahora construyo las cosas que la necesitan**
 
+### 🧩 Cosas que he construido
+
+#### 🍪 Accept All Cookies
+
+Un juego de navegador en pixel art, con 12 niveles, que se ríe de los patrones oscuros de los banners de cookies. Cada nivel es un patrón manipulador distinto del que tienes que salir. Construido de principio a fin con un flujo spec-driven: misión, roadmap y specs de cada feature escritas antes del primer componente.
+
+`React 18` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Zustand` &nbsp;·&nbsp; `Sass / BEM` &nbsp;·&nbsp; `Vite`
+
+<a href="https://s-minaya.github.io/accept-all-cookies/"><img src="https://img.shields.io/badge/Jugar-a8c66c?style=for-the-badge&logoColor=white" alt="Jugar" /></a>
+<a href="https://github.com/s-minaya/accept-all-cookies"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+
+#### 💼 Portfolio
+
+Mi propia web. La sección Selected Works está organizada en carpetas temáticas, con un componente de carpeta que reescribí de Tailwind a Sass/BEM, más algunos efectos visuales que fui montando por el camino.
+
+`React` &nbsp;·&nbsp; `Sass` &nbsp;·&nbsp; `WebGL`
+
+<a href="https://s-minaya.github.io/sofia-minaya-portfolio/"><img src="https://img.shields.io/badge/Visitar-a8c66c?style=for-the-badge&logoColor=white" alt="Visitar" /></a>
+<a href="https://github.com/s-minaya/sofia-minaya-portfolio"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+
 ### 🛠️ Stack
 
 <p align="left">
@@ -66,12 +86,6 @@ Ahora trabajo con **React + JavaScript**, escribo tests que sirven para algo, y 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=s-minaya&show_icons=true&locale=es&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&count_private=true" alt="estadísticas" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=s-minaya&layout=compact&locale=es&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&langs_count=8" alt="lenguajes más usados" />
-</p>
-
-### 📈 Actividad
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-minaya&bg_color=00000000&color=ffb7c5&line=a8c66c&point=c9d1d9&area=true&hide_border=true" alt="gráfico de actividad" />
 </p>
 
 ---
