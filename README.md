@@ -23,6 +23,26 @@ These days I build with **React + JavaScript**, I write tests that actually mean
 🤔 &nbsp;I'm looking for help with **code reviews. I'd rather hear why an architectural decision is wrong now than discover it in three months**  
 ⚡ &nbsp;Fun fact: **I spent 10 years giving people the wifi password. Now I build the things that need it**
 
+### 🧩 Things I've Built
+
+#### 🍪 Accept All Cookies
+
+A 12-level pixel art browser game satirising cookie consent dark patterns. Every level is a different manipulative pattern you have to fight your way out of. Built end to end with a spec-driven workflow: mission, roadmap and feature specs written before a single component.
+
+`React 18` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Zustand` &nbsp;·&nbsp; `Sass / BEM` &nbsp;·&nbsp; `Vite`
+
+<a href="https://s-minaya.github.io/accept-all-cookies/"><img src="https://img.shields.io/badge/Play%20it-a8c66c?style=for-the-badge&logoColor=white" alt="Play it" /></a>
+<a href="https://github.com/s-minaya/accept-all-cookies"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
+#### 💼 Portfolio
+
+My own site. The Selected Works section is organised into thematic folders, using a custom folder component I rewrote from Tailwind into Sass/BEM, plus a few visual effects I built along the way.
+
+`React` &nbsp;·&nbsp; `Sass` &nbsp;·&nbsp; `WebGL`
+
+<a href="https://s-minaya.github.io/sofia-minaya-portfolio/"><img src="https://img.shields.io/badge/Visit-a8c66c?style=for-the-badge&logoColor=white" alt="Visit" /></a>
+<a href="https://github.com/s-minaya/sofia-minaya-portfolio"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -66,12 +86,6 @@ These days I build with **React + JavaScript**, I write tests that actually mean
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=s-minaya&show_icons=true&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=s-minaya&layout=compact&theme=tokyonight&title_color=ffb7c5&icon_color=a8c66c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-livid-three.vercel.app/graph?username=s-minaya&bg_color=00000000&color=ffb7c5&line=a8c66c&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
